@@ -1,7 +1,3 @@
-Here’s a **clean, well-formatted Markdown version** of your factorial problem — ready for upload to GitHub as a `.md` file:
-
----
-
 # Factorial Calculation
 
 **Time limit:** 1 second
