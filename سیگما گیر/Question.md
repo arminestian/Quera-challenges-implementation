@@ -1,7 +1,3 @@
-Here’s a **clean and GitHub-ready Markdown version** of your problem statement, formatted consistently with your previous ones 👇
-
----
-
 # Nested Summation Calculation
 
 **Time limit:** 1 second
