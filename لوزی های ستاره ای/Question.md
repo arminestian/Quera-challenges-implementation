@@ -1,7 +1,3 @@
-Here’s a **clean and properly formatted Markdown version** of your diamond-printing problem, ready for GitHub upload 👇
-
----
-
 # Double Diamond Pattern
 
 **Time limit:** 1 second
