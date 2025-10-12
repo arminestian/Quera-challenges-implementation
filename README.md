@@ -14,9 +14,8 @@ Each challenge folder typically includes:
 
 ```
 problem_name/
-├── problem_description.txt
-├── solution.py
-└── README.md
+├── problem_description.md
+├── solution
 ```
 
 ## 🧰 Technologies Used
