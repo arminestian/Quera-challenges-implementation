@@ -1,5 +1,3 @@
-Sure! Here’s the **full Markdown-formatted README** — ready to copy directly into your `README.md` file:
-
 # 🧠 Quera Algorithm Challenges
 
 This repository contains my solutions and implementations for algorithmic and programming challenges from [quera.org](https://quera.org/).
