@@ -1,0 +1,10 @@
+first = int(input())
+second = int(input())
+third = int(input())
+fourth = int(input())
+
+print("Sum : %.6f" % (first + second + third + fourth))
+print("Average : %.6f" % ((first + second + third + fourth) / 4))
+print("Product : %.6f" % (first * second * third * fourth))
+print("MAX : %.6F" % max(first, second, third, fourth))
+print("MIN : %.6F" % min(first, second, third, fourth))
